@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །སྔ་འགྱུར་རྡོ་རྗེ་ཐེག་པའི་དབང་བསྐུར་སྤྱི་ལ་འཇུག་པའི་མཚམས་སྦྱོར་ཉུང་ངུར་བསྡུས་པ་བློ་གསལ་ངག་གི་འདོད་འཇོ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ།
+  sku: SHE-RTD-011
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Illuminating and Wish Fulfilling Speech:A Short Introduction to the Empowerment
+      Rituals of Vajrayana in General
+    bo: སྔ་འགྱུར་རྡོ་རྗེ་ཐེག་པའི་དབང་བསྐུར་སྤྱི་ལ་འཇུག་པའི་མཚམས་སྦྱོར་ཉུང་ངུར་བསྡུས་པ་བློ་གསལ་ངག་གི་འདོད་འཇོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 11
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༡
+  author:
+    en: Jamyang Khyentse Wangpo
+    bo: འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-011
+  category:
+    en: Dharma Teaching
+    bo: ཆོས་བསླབ་བྱ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-011.epub
+  description:
+    en: ''
+    bo: ''
